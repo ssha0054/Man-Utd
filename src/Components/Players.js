@@ -318,6 +318,7 @@ const Players = () => {
             </Container>
 
             <Container>
+                <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet"/>
                 <h3 className="team-grid__heading">Forwards</h3>
                 <Row className="ya">
                     <Col>
@@ -404,14 +405,7 @@ const Players = () => {
                     </Col>
                 </Row>
             </Container>
-
-            <div className="footer" fixed="bottom" height="10px">
-                <h1>Add stuff here</h1>
-            </div>
-
         </div>
-
-        
     );
 }
  

@@ -7,6 +7,12 @@ import pl from '../Images/PL-Trophy.jpeg';
 import premier_league from '../Images/PL-Trophy.jpeg';
 import champs_league from '../Images/cl_white_bg.jpg';
 
+import { Link } from 'react-router-dom';
+
+import {
+    FaGithub
+} from "react-icons/fa";
+
 const Home = () => {
     return ( 
         <div className="home">
@@ -113,10 +119,6 @@ Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Prem
                 </Row>
             </Container>
             <br></br>
-            </div>
-
-            <div className="footer" fixed="bottom">
-                <br></br>
             </div>
         </div>
      );
