@@ -16,3 +16,8 @@
     flex: auto;
     text-align: right;
 }
+
+.footer{
+    background-color: black;
+    height: 60px;
+}
