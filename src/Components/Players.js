@@ -65,7 +65,7 @@ const Players = () => {
                             <br></br>
                             <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p90152.png" style={{width: '100px'}, {height: '280px'} } />
                             <div>
-                                <h4>Raphael Varance</h4>
+                                <h4>Raphael Varane</h4>
                                 <h5>18</h5>
                             </div>
                         </div>
@@ -317,62 +317,98 @@ const Players = () => {
                 </Row>
             </Container>
 
-            
-
             <Container>
-                <h3 className="team-grid__heading">Midfielders</h3>
-                <Row>
+                <h3 className="team-grid__heading">Forwards</h3>
+                <Row className="ya">
                     <Col>
-                        <Card className="text-center" className="player-card">
-                        
-                            <Card.Body>
-                                <Card.Img src={cr7}/>
-                                <Card.ImgOverlay></Card.ImgOverlay>
-                            </Card.Body>
-                        <Card.Footer className="text-muted" className="player-card-footer">Cristiano Ronaldo - #7</Card.Footer>
-                        </Card>
-                    </Col>
-                    <Col>
-                        <div class="imageContainer">Some Text</div>
+                        <div>
+                            <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p14937.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Cristiano Ronaldo</h4>
+                                <h5>7</h5>
+                            </div>
+                        </div>
                     </Col>
                     <Col>
                         <div>
-                            <img src="https://assets.manutd.com/AssetPicker/images/0/0/16/59/1063877/De_Gea_profile_pic_trial_edit1643296725957.jpg" className="figure-img img-fluid z-depth-1"
-                                style={{width: '400px'}, {height: '300px'} } />
+                            <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p209243.png" style={{width: '100px'}, {height: '280px'} } />
                             <div>
-                                <h4>Cristiano Ronaldo</h4>
-                                <h5>Ronaldo</h5>
+                                <h4>Jadon Sancho</h4>
+                                <h5>25</h5>
                             </div>
                         </div>
-                        
-                        
-                       
                     </Col>
                     <Col>
-                        <Card className="bg-dark text-white">
-                        <Card.Img src="https://assets.manutd.com/AssetPicker/images/0/0/16/59/1063877/De_Gea_profile_pic_trial_edit1643296725957.jpg" alt="Card image" />
-                        <Card.ImgOverlay>
+                        <div>
+                        <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p176297.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Marcus Rashford</h4>
+                                <h5>10</h5>
+                            </div>
+                        </div>
+                    </Col>
+                    <Col>
+                        <div>
+                        <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p40720.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Edinson Cavani</h4>
+                                <h5>21</h5>
+                            </div>
+                        </div>
+                    </Col>
+                </Row>
+                <Row className="ya">
+                    <Col>
+                        <div>
                             <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p148225.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Anthony Martial</h4>
+                                <h5>9</h5>
+                            </div>
+                        </div>
+                    </Col>
+                    <Col>
+                        <div>
                             <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <br></br>
-                            <Card.Title>Card title</Card.Title>
-                            <Card.Text>
-                                Cristiano Ronaldo
-                            </Card.Text>
-                            <Card.Text>7</Card.Text>
-                            <Card.Footer className="text-muted">Cristiano Ronaldo - #7</Card.Footer>
-                        </Card.ImgOverlay>
-                        </Card>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p449434.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Anthony Elanga</h4>
+                                <h5>36</h5>
+                            </div>
+                        </div>
+                    </Col>
+                    <Col>
+                        <div>
+                        <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p222677.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Tahith Chong</h4>
+                                <h5>44</h5>
+                            </div>
+                        </div>
+                    </Col>
+                    <Col>
+                        <div>
+                        <br></br>
+                            <img src="https://resources.premierleague.com/premierleague/photos/players/250x250/p472464.png" style={{width: '100px'}, {height: '280px'} } />
+                            <div>
+                                <h4>Shola Shoretire</h4>
+                                <h5>47</h5>
+                            </div>
+                        </div>
                     </Col>
                 </Row>
             </Container>
 
+            <div className="footer" fixed="bottom" height="10px">
+                <h1>Add stuff here</h1>
+            </div>
 
-            
         </div>
 
         
