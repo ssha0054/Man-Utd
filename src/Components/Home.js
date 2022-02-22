@@ -13,8 +13,7 @@ const Home = () => {
             <br></br> 
             <br></br> 
             <br></br>
-            <br></br> 
-            <h2 position="right">Our Club</h2>
+            <br></br>
             <div className="our-club">
             <Container>
                 <Row>
