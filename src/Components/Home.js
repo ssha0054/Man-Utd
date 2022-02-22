@@ -22,7 +22,11 @@ const Home = () => {
                     </Col>
                     <Col>
                     <h2>Suiiiiii</h2>
-                        Add text here
+                    Manchester United have won a record 13 titles in the Premier League since the top flight of English football was given that new name in 1992.
+Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Premier League season, in 1992/93. The Reds went on to win titles in 1994, 1996, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009, 2011 and 2013 – more than all other clubs put together to date
+Manchester United have won a record 13 titles in the Premier League since the top flight of English football was given that new name in 1992.
+Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Premier League season, in 1992/93. The Reds went on to win titles in 1994, 1996, 1997, 1999, 2000, 2001, 2003, 2007, 2008, 2009, 2011 and 2013 – more than all other clubs put together to date
+                   
                     </Col>
                 </Row>
             </Container>
