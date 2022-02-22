@@ -4,7 +4,7 @@ import logo from '../Images/Man-Utd-Logo.png';
 
 const Navbars = () => {
     return ( 
-        <Navbar bg="navbar" variant="dark">
+        <Navbar bg="navbar" variant="dark" fixed="top">
             <Container>
             <img src={logo} wdith="50px" height="50px"/>
             <Navbar.Brand></Navbar.Brand>
