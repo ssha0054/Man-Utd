@@ -11,17 +11,6 @@ import Home from './Components/Home';
 import Players from './Components/Players';
 import Footer from './Components/Footer';
 
-// function App() {
-//   return (
-//     <div className="App">
-//       <Navbar />
-//       <div className="content">
-//         <Home/>
-//         <Players/>
-//       </div>
-//     </div>
-//   );
-// }
 function App() {
   return (
     <>
@@ -39,9 +28,6 @@ function App() {
                 <Home />
               </Route>
                 
-              {/* This route is for about component 
-              with exact path "/about", in component 
-              props we passes the imported component*/}
               <Route path="/players">
                 <Players />
               </Route>
