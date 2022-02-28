@@ -7,8 +7,6 @@ import pl from '../Images/PL-Trophy.jpeg';
 import premier_league from '../Images/PL-Trophy.jpeg';
 import champs_league from '../Images/cl_white_bg.jpg';
 
-import { Link } from 'react-router-dom';
-
 import {
     FaGithub
 } from "react-icons/fa";
@@ -53,7 +51,7 @@ Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Prem
                     </Col>
                     <Col className="col-3">
                     <br></br>
-                    <img src={pl} wdith="300px" height="300px"/>
+                    <img src='https://freepikpsd.com/file/2019/10/premier-league-trophy-png-4-1-Transparent-Images.png' wdith="300px" height="300px"/>
                     </Col>
                 </Row>
             </Container>
@@ -93,7 +91,7 @@ Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Prem
                     <Col className="col-3">
                     <br></br>
                     <br></br>
-                    <img src={premier_league} wdith="300px" height="300px"/>
+                    <img src='https://i.pinimg.com/originals/24/ab/6d/24ab6dd9471dfeed83c75fbda7eea8cb.png' wdith="300px" height="300px"/>
                     </Col>
                 </Row>
             </Container>

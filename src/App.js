@@ -9,6 +9,7 @@ import {
 import Navbar from './Components/Navbars';
 import Home from './Components/Home';
 import Players from './Components/Players';
+import Footer from './Components/Footer';
 
 // function App() {
 //   return (
@@ -45,7 +46,9 @@ function App() {
                 <Players />
               </Route>
             </Switch>
-            </div>
+          </div>
+          <br></br>
+          <Footer />
         </div>
         
       </Router>
