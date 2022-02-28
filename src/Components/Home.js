@@ -2,14 +2,7 @@ import { Carousel, Col, Container, Row } from "react-bootstrap";
 import "./Home.css";
 
 import ronaldo_celebrating from '../Images/Ronaldo-celebrating.jpeg';
-import pl from '../Images/PL-Trophy.jpeg';
-// import pl from '../Images/pl.png';
-import premier_league from '../Images/PL-Trophy.jpeg';
 import champs_league from '../Images/cl_white_bg.jpg';
-
-import {
-    FaGithub
-} from "react-icons/fa";
 
 const Home = () => {
     return ( 
@@ -20,6 +13,7 @@ const Home = () => {
             <br></br>
             <div className="our-club">
             <Container>
+                <br></br>
                 <Row>
                     <Col>
                         <Carousel fade>
@@ -127,8 +121,8 @@ Sir Alex Ferguson was the man who masterminded the triumph in the inaugural Prem
                 <Row>
                     <Col>
                     <br></br>
-                    <br></br>
-                    <img src={premier_league} wdith="300px" height="300px"/>
+                    
+                    <img src="https://m.media-amazon.com/images/I/61eRFljomAL._AC_SY679_.jpg" wdith="300px" height="300px"/>
                     
                     </Col>
                     <Col>
