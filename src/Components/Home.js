@@ -1,4 +1,4 @@
-import { Col, Container, Row } from "react-bootstrap";
+import { Carousel, Col, Container, Row } from "react-bootstrap";
 import "./Home.css";
 
 import ronaldo_celebrating from '../Images/Ronaldo-celebrating.jpeg';
@@ -22,8 +22,32 @@ const Home = () => {
             <Container>
                 <Row>
                     <Col>
-                        <br></br>
-                        <img src={ronaldo_celebrating} wdith="300px" height="300px"/>
+                        <Carousel fade>
+                            <Carousel.Item>
+                                <img
+                                className="d-block w-100 h-100"
+                                src={ronaldo_celebrating}
+                                />
+                                <Carousel.Caption>
+                                </Carousel.Caption>
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img
+                                className="d-block w-100"
+                                src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Manchester-United-v-Swansea-City---Premier-League-8cac3f4a942ae910bac6a8067fbeaec8.jpg"
+                                />
+                                <Carousel.Caption>
+                                </Carousel.Caption>
+                            </Carousel.Item>
+                            <Carousel.Item>
+                                <img
+                                className="d-block w-100"
+                                src="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blt328827c9aac85640/60dc7f13e1461d39eb8ec99a/656fedc92073b5c79fcb807686fbc40ac54f2fdb.png?auto=webp&format=jpg&quality=100"
+                                />
+                                <Carousel.Caption>
+                                </Carousel.Caption>
+                            </Carousel.Item>
+                        </Carousel>
                     </Col>
                     <Col>
                     <h2>Manchester United Football Club</h2>

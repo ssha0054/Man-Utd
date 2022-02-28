@@ -21,3 +21,8 @@
     background-color: black;
     height: 60px;
 }
+
+.images{
+    height:fit-content;
+    object-fit: cover;
+}
