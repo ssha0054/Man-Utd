@@ -38,6 +38,10 @@
     font-size: 28px;
 }
 
+.social-media-icons:hover{
+    color: #868686;
+}
+
 .footer-text {
     color: #fff;
     font-size:larger
