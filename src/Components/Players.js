@@ -13,7 +13,7 @@ const Players = () => {
             <h1>Meet The Team</h1>
             <Container>
                 <h3 className="team-grid__heading">Goalkeepers</h3>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -59,7 +59,7 @@ const Players = () => {
 
             <Container>
                 <h3 className="team-grid__heading">Defenders</h3>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -101,7 +101,7 @@ const Players = () => {
                         </div>
                     </Col>
                 </Row>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -143,7 +143,7 @@ const Players = () => {
                         </div>
                     </Col>
                 </Row>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -189,7 +189,7 @@ const Players = () => {
 
             <Container>
                 <h3 className="team-grid__heading">Midfielders</h3>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -231,7 +231,7 @@ const Players = () => {
                         </div>
                     </Col>
                 </Row>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -273,7 +273,7 @@ const Players = () => {
                         </div>
                     </Col>
                 </Row>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -320,7 +320,7 @@ const Players = () => {
             <Container>
                 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet"/>
                 <h3 className="team-grid__heading">Forwards</h3>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
@@ -362,7 +362,7 @@ const Players = () => {
                         </div>
                     </Col>
                 </Row>
-                <Row className="ya">
+                <Row className="players-container">
                     <Col>
                         <div>
                             <br></br>
