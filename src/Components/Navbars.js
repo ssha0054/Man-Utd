@@ -13,7 +13,6 @@ const Navbars = () => {
             <Nav.Link href="/home">Home</Nav.Link>
             <br></br>
             <Nav.Link href="/players">Meet The Team</Nav.Link>
-            <Nav.Link href="/contact">Contact</Nav.Link>
             </Nav>
             </Container>
         </Navbar>
