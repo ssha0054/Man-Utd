@@ -14,7 +14,7 @@ or view screenshots below:
 <br>
 ![alt text](./src/Images/screenshots/Image-3.png)
 <br>
-![alt text](./src/Images/screenshots/Image-4.png)
+![alt text](./src/Images/screenshots/image-4.png)
 <br>
 ![alt text](./src/Images/screenshots/Image-5.png)
 <br>
