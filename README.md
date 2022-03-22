@@ -1,5 +1,5 @@
 ## Read Me
-A website showcasing information about the greatest football club in the world, Manchester United!
+A website showcasing information about the greatest football club in the world, Manchester United! 
 <br>
 <br>
 Feel free to view the live site [here](https://man-utd.herokuapp.com/):
