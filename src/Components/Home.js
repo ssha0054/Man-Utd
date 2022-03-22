@@ -21,6 +21,7 @@ const Home = () => {
                                 <img
                                 className="d-block w-100 h-100"
                                 src={ronaldo_celebrating}
+                                alt=""
                                 />
                                 <Carousel.Caption>
                                 </Carousel.Caption>
@@ -29,6 +30,7 @@ const Home = () => {
                                 <img
                                 className="d-block w-100"
                                 src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Manchester-United-v-Swansea-City---Premier-League-8cac3f4a942ae910bac6a8067fbeaec8.jpg"
+                                alt=""
                                 />
                                 <Carousel.Caption>
                                 </Carousel.Caption>
@@ -37,6 +39,7 @@ const Home = () => {
                                 <img
                                 className="d-block w-100"
                                 src="https://eu-images.contentstack.com/v3/assets/bltcc7a7ffd2fbf71f5/blt328827c9aac85640/60dc7f13e1461d39eb8ec99a/656fedc92073b5c79fcb807686fbc40ac54f2fdb.png?auto=webp&format=jpg&quality=100"
+                                alt=""
                                 />
                                 <Carousel.Caption>
                                 </Carousel.Caption>
@@ -67,7 +70,7 @@ const Home = () => {
                     </Col>
                     <Col className="col-3">
                     <br></br>
-                    <img src='https://freepikpsd.com/file/2019/10/premier-league-trophy-png-4-1-Transparent-Images.png' wdith="300px" height="300px"/>
+                    <img src='https://freepikpsd.com/file/2019/10/premier-league-trophy-png-4-1-Transparent-Images.png' alt="" wdith="300px" height="300px"/>
                     </Col>
                 </Row>
             </Container>
@@ -79,7 +82,7 @@ const Home = () => {
                 <Row>
                     <Col>
                     <br></br>
-                    <img src={champs_league} wdith="300px" height="300px"/>
+                    <img src={champs_league} alt="" wdith="300px" height="300px"/>
                     
                     </Col>
                     <Col>
@@ -105,7 +108,7 @@ const Home = () => {
                     <Col className="col-3">
                     <br></br>
                     <br></br>
-                    <img src='https://i.pinimg.com/originals/24/ab/6d/24ab6dd9471dfeed83c75fbda7eea8cb.png' wdith="300px" height="250px"/>
+                    <img src='https://i.pinimg.com/originals/24/ab/6d/24ab6dd9471dfeed83c75fbda7eea8cb.png' alt="" wdith="300px" height="250px"/>
                     </Col>
                 </Row>
             </Container>
@@ -119,7 +122,7 @@ const Home = () => {
                     <br></br>
                     <br></br>
                     
-                    <img src="https://m.media-amazon.com/images/I/61eRFljomAL._AC_SY679_.jpg" wdith="300px" height="300px"/>
+                    <img src="https://m.media-amazon.com/images/I/61eRFljomAL._AC_SY679_.jpg" alt="" wdith="300px" height="300px"/>
                     
                     </Col>
                     <Col>
