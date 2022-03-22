@@ -6,7 +6,7 @@ const Navbars = () => {
     return ( 
         <Navbar bg="navbar" variant="dark" fixed="top">
             <Container>
-            <img src={logo} wdith="50px" height="50px"/>
+            <img src={logo} alt="" wdith="50px" height="50px"/>
             <Navbar.Brand></Navbar.Brand>
             <Navbar.Brand href="/home">Manchester United</Navbar.Brand>
             <Nav className="me-auto">

@@ -15,6 +15,11 @@
     border-width: 2px;
 }
 
+.player-img {
+    width: 280px;
+    height: 280px;
+}
+
 .team-grid__heading {
     font-family: MontserratSemiBold,Helvetica,sans-serif;
     font-size: 24px;
